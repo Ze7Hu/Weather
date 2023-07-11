@@ -61,8 +61,13 @@ This project is licensed under the terms of the MIT license
 This project was created by:
 
 Kristiyan Tefov
+
 Adina Hidan
+
 Yvonne
+
 Hodan Ibrahim
+
 Rihards Mantejs
+
 Lukasz Jurkiewicz
